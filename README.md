@@ -2,7 +2,7 @@
 
 ## 简介
   alpaca是一个用adonisjs框架搭建的后端API服务，adonis是一个nodejs的webMVC框架。                                               
-  weeds是结合alpaca使用的基于vue的前端应用，实现了简单的类[Twiteet](https://twitter.com/)的功能。                                  
+  weeds是结合alpaca使用的基于vue的前端应用，实现了简单的类[twitter](https://twitter.com/)的功能。                                  
   本项目来源于[Build a Twitter Clone With Adonis and Vue](https://scotch.io/courses/build-a-twitter-clone-with-adonis-and-vue)。
 ***
   
